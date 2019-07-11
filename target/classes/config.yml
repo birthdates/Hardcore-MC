@@ -1,0 +1,7 @@
+difficulty: "PEACEFUL"
+kick-message: "&c&lYou have died on hardcore mode and can no longer join."
+database:
+  username: "adm"
+  password: ""
+  ip: "localhost:27017"
+  name: "hardcoremc"

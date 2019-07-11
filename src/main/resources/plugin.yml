@@ -1,0 +1,17 @@
+name: HardcoreMC
+author: birthdates
+main: com.birthdates.hardcoremc.HardcoreMC
+api-version: "1.14"
+version: 1.0.0
+commands:
+  hardcoremc:
+    aliases: [hmc, hdmc, mch]
+  difficulty:
+    aliases: [dif, diff, difc, dic, df]
+  deathunban:
+    aliases: [dunban, dunb, unband]
+permissions:
+  hardcoremc.admin:
+    description: "The admin permission"
+  hardcoremc.bypass:
+    description: "Allows the bypass of the ban"
