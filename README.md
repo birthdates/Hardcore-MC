@@ -3,10 +3,12 @@ Ability to have hardcore mode in multiplayer, saves with mongodb support
 
 # Permissions
 hardcoremc.bypass - Ability to bypass the hardcore ban
+
 hardcoremc.admin - Ability to use admin commands
 
 # Commands
 /difficulty <peaceful|normal|hard|> - Change the difficulty
+
 /deathunban <uuid> - Remove a death ban from a uuid
   
  # Configuration
